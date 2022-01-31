@@ -1,0 +1,27 @@
+h1 {
+    color: red; background-color: orange
+  }
+h2 {
+    color: #002568; background-color: yellow
+}  
+h3 {
+    color: #26c; background-color:indigo
+}
+h4 {
+    color: #740630c0; background-color:violet 
+}
+h5 {
+    color: #96ff; background-color:blue
+}
+h6 {
+    color: rgb(0, 150, 255); background-color:red
+}
+p {
+    color: rgba(255, 150, 20, 1); background-color:green
+}
+li {
+    color:hotpink;
+}
+
+
+
